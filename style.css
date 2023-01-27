@@ -1,0 +1,23 @@
+body {
+    background-color:bisque;
+    
+}
+li {
+    color: rgb(83, 0, 104);
+}
+.ciaooo {
+    color: rgb(83, 0, 104);
+    font-family: Helvetica;
+}
+.ciaooo{
+   display: flex;
+   justify-content: center;
+}
+.center-me {
+    display: flex;
+    justify-content:space-evenly;
+    
+  }
+.rounded{
+    border-radius: 10%;
+}

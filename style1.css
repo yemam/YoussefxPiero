@@ -1,0 +1,23 @@
+img{
+    border-radius: 50%;
+}
+.centralo{
+    display: flex;
+    justify-content:space-around;
+}
+.name{
+    background-color: black;
+    color: blueviolet;
+    display: flex;
+    justify-content:space-around;
+    font-family: Times New Roman;
+}
+p{
+    color: aquamarine;
+}
+body{
+    background-color:brown;
+}
+.centriaml{
+font-size: xx-large;
+}
