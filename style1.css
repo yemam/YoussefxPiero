@@ -3,7 +3,7 @@ body{
 }
 
 .bg-img {
-    background-image: url("Images/paesaggio.jpeg");
+    background-image: url("Images/paesaggiovero.png");
     height: 500px;
     background-position: top;
     margin-top: 0%;
@@ -26,8 +26,63 @@ body{
 
 li{
     display: inline-flex;
-    color: blueviolet;
+    color: #0CC8F2;
     font-size: 10px;
     padding: 15px;
     
+}
+.logopiccolo{
+  position: absolute;
+  margin: 10px;
+  padding-left: 500px;
+}
+
+.allinea{
+  color: white;
+  position: absolute;
+  top: 20px;
+  left: 13%;
+  font-size: 200px;
+}
+
+p{
+  color: #0CC8F2;
+  font-family: Geneva;
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  margin-top: 10%;
+  text-align: center;
+}
+
+.scrollatore{
+  padding-top: 20%;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 41%;
+  overflow-x: auto;
+}
+
+p1{
+  color: #0CC8F2;
+  font-size: 60px;
+  padding-left: 80px;
+}
+
+.prodotti{
+  display: grid;
+  gap: 7px;
+}
+
+p2{
+  color: #0CC8F2;
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+  padding-top: 80px;
+}
+
+.QR{
+  height: 500px;
+  padding-left: 25%;
 }
